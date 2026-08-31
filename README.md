@@ -4,7 +4,7 @@ A curated repository of **Python programming exercises, code sets, and mini-proj
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository Structure 
 
 The repository is organized by topic and difficulty level:
 
